@@ -10,3 +10,5 @@ my solutions to 10 leet code problems. Including story problems
 1221 split a string in balanced strings
 1486 xor operation in an array
 938 range sum of BST
+1656 Design an Ordered Stream
+1290 Convert Binary Number in a Linked List to Integer
